@@ -1,0 +1,9 @@
+remote: Resolving deltas: 100% (42/42), completed with 2 local objects.
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: error: Trace: 6dacffcb9bada97d837b85fd0f170b4f
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File XCP_PUI2016_cjs676/2011_ACS_5YR_BG_36_NEW_YORK.gdb/a0000000b.gdbtable is 125.89 MB; this exceeds GitHub's file size limit of 100.00 MB
+To https://github.com/Streich676/PUI2016_cjs676.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/Streich676/PUI2016_cjs676.git'
+
